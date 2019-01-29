@@ -1,2 +1,2 @@
-# firebase-first
-First time with firebase
+# adonis-firebase
+Adonis with Firebase
